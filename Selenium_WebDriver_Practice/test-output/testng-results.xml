@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22126" started-at="2022-06-09T14:07:09Z" finished-at="2022-06-09T14:07:31Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22126" started-at="2022-06-09T14:07:09Z" finished-at="2022-06-09T14:07:31Z">
+      <class name="com.reyaz.testng.NoParameterWithTestNGXML">
+        <test-method status="PASS" signature="testParameterWithXML(java.lang.String, java.lang.String)[pri:0, instance:com.reyaz.testng.NoParameterWithTestNGXML@28f67ac7]" name="testParameterWithXML" duration-ms="22060" started-at="2022-06-09T19:37:09Z" finished-at="2022-06-09T19:37:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Guru99]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParameterWithXML -->
+      </class> <!-- com.reyaz.testng.NoParameterWithTestNGXML -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

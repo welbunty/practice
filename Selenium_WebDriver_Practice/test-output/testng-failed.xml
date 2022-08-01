@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="author" value="Guru99"/>
+  <parameter name="searchKey" value="UK"/>
+  <test name="Test">
+    <parameter name="searchKey" value="UK"/>
+    <classes>
+      <class name="com.reyaz.testng.NoParameterWithTestNGXML"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Failed suite [Suite] -->
